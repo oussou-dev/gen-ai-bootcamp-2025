@@ -1,4 +1,4 @@
 # GenAI Bootcamp
 
-1- Intro Gen AI & Agentic AI   
+[x] 1 - Intro Gen AI & Agentic AI   
 2- LangChain
