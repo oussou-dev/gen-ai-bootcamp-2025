@@ -1,2 +1,4 @@
-# gen-ai-bootcamp-2025
-GenAI Bootcamp
+# GenAI Bootcamp
+
+1- Intro Gen AI & Agentic AI   
+2- LangChain
